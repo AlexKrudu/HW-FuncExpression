@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1286baf4-a6f8-4b81-ab2d-5c995b1c7077" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HW12-Parser/HW12-Parser.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW12-Parser/expression/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW12-Parser/expression/expression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2/out/production/HW2/search/BinarySearchMissing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW2/out/production/HW2/search/BinarySearchMissingTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/HW3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/META-INF/HW3.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/base/Asserts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/base/MainChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/base/Randomized.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/base/TestCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/queue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/queue/ArrayQueueADT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/queue/ArrayQueueModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/queue/ArrayQueueTest$Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/out/production/HW3/queue/ArrayQueueTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/base/Asserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/base/MainChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/base/Randomized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/base/TestCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/queue/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/queue/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/queue/ArrayQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/queue/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/queue/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/src/queue/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW6/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW12-Parser/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../HW12-Parser/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW12-Parser/.idea/HW12-Parser.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW12-Parser/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW12-Parser/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW12-Parser/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW12-Parser/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW12-Parser/expression/parser/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HW12-Parser/expression/parser/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/kt_homework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/BinaryExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/Const.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/Divide.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/Multiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/Subtract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/base/Asserts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/base/MainChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/base/MainFilesChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/base/MainStdChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/base/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/base/Randomized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/out/production/kt_homework/lab1/experssions/base/TestCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/base/Asserts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/base/MainChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/base/MainFilesChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/base/MainStdChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/base/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/base/Randomized.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/base/TestCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/experssions/Add.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/experssions/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/experssions/BinaryExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/experssions/Const.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/experssions/Divide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/experssions/Expression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/experssions/ExpressionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/experssions/Multiply.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/experssions/Subtract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/experssions/ToMiniString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kt_homework/src/lab1/experssions/Variable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZGE2Y3uvdS15beSDn4Eb9pRreW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1286baf4-a6f8-4b81-ab2d-5c995b1c7077" name="Default Changelist" comment="" />
+      <created>1584456828707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584456828707</updated>
+      <workItem from="1584456860123" duration="133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1584456965327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584456965327" />
+    <state x="625" y="220" key="NewModule_or_Project.wizard" timestamp="1584456995860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584456995860" />
+  </component>
+</project>
